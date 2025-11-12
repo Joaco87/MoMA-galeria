@@ -40,10 +40,16 @@ body {
 .fondo3 {
   background-image: url('img/losamantes-jpg.webp');
 }
-.fondo4 {
-  background-image: url('img/pajaroenelespacio.jpeg');
+.fondo4{
+  background-image: url('img/cambells.jpg');
 }
 .fondo5 {
+  background-image: url('img/pajaroenelespacio.jpeg');
+}
+.fondo6 {
+  background-image: url('img/Cindy.jpeg');
+}
+.fondo7 {
   background-image: url('img/losnenufares.jpg');
 }
 
